@@ -80,7 +80,7 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       bottomNavigationBar: BottomNavigationBar(
-        elevation: 0,
+
         showUnselectedLabels: true,
         selectedItemColor: Colors.blue,
         unselectedItemColor: Colors.grey,
